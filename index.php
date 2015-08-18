@@ -10,10 +10,11 @@
   </head>
   <body>
     
-    <h1><?php echo 'Titulo' ?></h1>
+    <h1><?php echo 'Titulo'; ?></h1>
 	  
-	  <?php echo 'Hello PHP' ?>
+	  <?php echo 'Hello PHP'; ?>
 
+    <?php include('modules/footer.php'); ?>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
