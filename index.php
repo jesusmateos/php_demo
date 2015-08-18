@@ -9,6 +9,8 @@
 
   </head>
   <body>
+    
+    <h1><?php echo 'Titulo' ?></h1>
 	  
 	  <?php echo 'Hello PHP' ?>
 
